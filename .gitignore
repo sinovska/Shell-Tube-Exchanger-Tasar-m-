@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Uygulamanın çalışırken ürettiği dosyalar
+hata.txt
+*.log
+
+# Kişisel görünüm ayarı (paylaşmak istersen bu satırı sil)
+gorunum.json
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini

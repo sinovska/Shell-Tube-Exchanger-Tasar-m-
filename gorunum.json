@@ -1,0 +1,115 @@
+{
+  "pencere_adi": "Eşanjör Tasarımı",
+  "baslik": "Kabuk–Tüp Eşanjör Tasarımı ",
+  "alt_yazi": "๋ ࣭ ⭑๋ ࣭ ⭑Ondokuz Mayıs Üniversitesi Kimya Mühendisliği Bölümü Kimya Mühendisliğinde Tasarım I dersi kapsamında Sinem N. ÖZYÜREK (21060414) tarafından hazırlanmıştır. Projenin konusu, izopropil alkolden aseton üreten bir tesiste reaktör çıkış gazını soğutan ve yoğuşturan E-102 kısmi yoğuşturucusunun tasarımıdır.",
+  "girdiler_basligi": "Girdiler",
+  "emoji": false,
+  "girdiler_gorseli_genislik": 100,
+  "baslik_gorseli_genislik": 300,
+  "sekmeler": [
+    {
+      "kimlik": "tanitim",
+      "ad": "Tanıtım",
+      "emoji": "ℹ️",
+      "goster": true
+    },
+    {
+      "kimlik": "otomatik",
+      "ad": "Otomatik tasarım",
+      "emoji": "🧭",
+      "goster": true
+    },
+    {
+      "kimlik": "ozet",
+      "ad": "Özet",
+      "emoji": "📋",
+      "goster": true
+    },
+    {
+      "kimlik": "tema",
+      "ad": "TEMA/Hesaplama Raporları",
+      "emoji": "📄",
+      "goster": true
+    },
+    {
+      "kimlik": "egri",
+      "ad": "Yoğuşma Eğrisi",
+      "emoji": "🌡️",
+      "goster": true
+    },
+    {
+      "kimlik": "adimlar",
+      "ad": "Hesap Adımları",
+      "emoji": "🧮",
+      "goster": true
+    },
+    {
+      "kimlik": "bolgeler",
+      "ad": "Bölgeler & Doğrulama",
+      "emoji": "🔁",
+      "goster": true
+    },
+    {
+      "kimlik": "mekanik",
+      "ad": "Mekanik",
+      "emoji": "🔩",
+      "goster": true
+    },
+    {
+      "kimlik": "maliyet",
+      "ad": "Maliyet",
+      "emoji": "💰",
+      "goster": true
+    },
+    {
+      "kimlik": "optimizasyon",
+      "ad": "Tasarım Taraması",
+      "emoji": "🏆",
+      "goster": true
+    },
+    {
+      "kimlik": "dwsim",
+      "ad": "DWSIM Karşılaştırma",
+      "emoji": "🧪",
+      "goster": true
+    }
+  ],
+  "metinler": {
+    "m80": {
+      "metin": "\n### E-102 Kısmi Yoğuşturucu Tasarım Uygulaması\n\nBu uygulama, izopropil alkolden (IPA) aseton üretilen tesiste reaktör çıkış gazını soğutan **E-102 kabuk-tüp\neşanjörünü** tasarlar. Proses gazı (aseton, IPA, su buharı ve hidrojen) kabuk tarafında kısmen yoğuşur, soğutma suyu\ntüplerden akar. Hidrojen bu koşullarda yoğuşmadığı için eşanjör bir **kısmi yoğuşturucudur**. Hesaplar ve konstrüksiyon\nkararları **TEMA Standartları (9. baskı, Sınıf B)** esas alınarak yapılır.\n\n**Sınırlamalar**\n\nAkış kaynaklı titreşim bu sürümde hesaplanmaz.\nEn belirsiz büyüklük, hidrojenli yoğuşmada kabuk tarafı ısı transfer katsayısıdır; kritik ölçütler bu belirsizliği sınar.\nDWSIM yalnızca termodinamiği doğrulamak için kullanılır (ısı yükü, çiy noktası, yoğuşan miktar, akışkan özellikleri). DWSIM’in eşanjör modülü yoğuşmayan gazlı kısmi yoğuşmayı modellemediği için geometri doğrulamasında kullanılmaz.\nSonuçlar ön tasarım niteliğindedir; imalattan önce ayrıntılı mekanik hesap gerekir.",
+      "goster": true
+    },
+    "m82": {
+      "metin": "",
+      "goster": false
+    },
+    "m83": {
+      "metin": "",
+      "goster": false
+    },
+    "m92": {
+      "metin": "\n",
+      "goster": false
+    },
+    "m84": {
+      "metin": "",
+      "goster": false
+    },
+    "m85": {
+      "metin": "",
+      "goster": false
+    },
+    "m81": {
+      "metin": "\n#### Nasıl kullanılır?\n1. Sol menüde proses ve soğutma suyu verilerini kontrol edin; varsayılan değerler proje verisidir.\n2. **Benim için tasarla**'ya basın. Uygulama yüzlerce tasarımı dener ve teknik olarak en uygun olanı seçer.\n3. Sonuçları sekmelerden inceleyin: **Hesap adımları** her denklemi sayılarıyla, **Bölgeler & doğrulama** bağımsız\n   kontrolleri, **Tasarım taraması** alternatifleri, **DWSIM karşılaştırma** simülatörle kıyası gösterir.\n4. TEMA föyünü (PDF), tüm hesapları (Excel) ve grafikleri **TEMA/Hesaplama Raporları** sekmesinden indirebilirsiniz.\n\n\n\nKendi tasarımınızı denemek için sol menüdeki girdileri değiştirip **Hesapla**'ya basabilirsiniz.\n",
+      "goster": true
+    }
+  },
+  "tema": {
+    "base": "light",
+    "primaryColor": "#1f5f8b",
+    "backgroundColor": "#ffffff",
+    "secondaryBackgroundColor": "#ffffff",
+    "textColor": "#1b1f24",
+    "font": "sans serif"
+  }
+}

@@ -1,0 +1,11 @@
+streamlit>=1.40
+thermo>=0.4
+ht>=1.0
+fluids>=1.0
+numpy
+pandas
+scipy
+matplotlib
+openpyxl
+reportlab
+pywebview
