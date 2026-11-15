@@ -108,5 +108,5 @@ DWSIM ile karşılaştırma yapmak isterseniz:
 
 ## Hazırlayan
 
-Sinem N. ÖZYÜREK (21060414) – Danışman: Doç. Dr. Berker FIÇICILAR
+Sinem N. ÖZYÜREK (21060414) 
 Ondokuz Mayıs Üniversitesi, Kimya Mühendisliği Bölümü, 2026
