@@ -4,7 +4,7 @@ Ondokuz Mayıs Üniversitesi Kimya Mühendisliği Bölümü, **Kimya Mühendisli
 
 İzopropil alkolden (IPA) aseton üreten bir tesiste, reaktörden çıkan gazı soğutma suyuyla soğutan ve yoğuşturan
 **E-102 kabuk-tüp eşanjörünü** tasarlar. Gazdaki aseton, IPA ve su yoğuşur; hidrojen yoğuşmaz. Bu yüzden eşanjör bir
-**kısmi yoğuşturucudur** ve basit bir LMTD hesabıyla doğru tasarlanamaz. Uygulama bu etkileri hesaba katarak
+**kısmi yoğuşturucudur** uygulama bu etkileri hesaba katarak
 **TEMA standardına uygun, teknik olarak en güvenilir** tasarımı otomatik olarak bulur.
 
 ## Ne yapar?
@@ -50,7 +50,7 @@ streamlit run app.py
    - **Otomatik tasarım:** seçilen tasarım, "Ne seçildi, neden?" tablosu ve en iyi 5 aday.
    - **Özet, Mekanik, Maliyet ve diğer sekmeler:** ayrıntılı hesaplar ve TEMA kontrolleri.
    - **Hesap adımları:** her denklem, sayılar yerine konmuş haliyle.
-4. **TEMA föyü sekmesinden** PDF ve Excel çıktılarını indirin.
+4. **TEMA Rapor/Hesaplamalar sekmesinden** PDF ve Excel çıktılarını indirin.
 5. İsterseniz bir girdiyi değiştirip **Hesapla** ile sonucun nasıl değiştiğini görün.
 
 **Görünümü düzenleme:** Sol menüdeki "Görünümü düzenle" ile kod yazmadan yazıları, sekmeleri, görselleri ve renkleri
