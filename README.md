@@ -1,6 +1,6 @@
 # E-102 Kısmi Yoğuşturucu Tasarım Uygulaması
 
-Ondokuz Mayıs Üniversitesi Kimya Mühendisliği Bölümü, **Kimya Mühendisliğinde Tasarım II** dersi kapsamında hazırlanmıştır.
+Ondokuz Mayıs Üniversitesi Kimya Mühendisliği Bölümü, **Kimya Mühendisliğinde Tasarım I** dersi kapsamında hazırlanmıştır.
 
 İzopropil alkolden (IPA) aseton üreten bir tesiste, reaktörden çıkan gazı soğutma suyuyla soğutan ve yoğuşturan
 **E-102 kabuk-tüp eşanjörünü** tasarlar. Gazdaki aseton, IPA ve su yoğuşur; hidrojen yoğuşmaz. Bu yüzden eşanjör bir
